@@ -2,30 +2,19 @@
 
 ## 介绍
 
-- [1 myAGV - 产品简介](1-introduce/产品介绍.md)
-- [2 使用用例](1-introduce/使用案例.md)
-- [3 快速开始](1-introduce/初次使用.md)
+- [1 myAGV - 产品简介](英文/en介绍.md)
+- [2 快速开始](英文/初次使用.md)
 ## 开发与使用
 
-- [1 myAGV - 建图](README.md)
-- [2 myAGV - 地图导航](1-introduction/2-mycobot_intro/2-mycobot_intro.md)
-  - 地图导出
-  - 摄像头精确定位
-- [3 myAGV - 手柄控制](1-introduction/4-use_case.md)
+- [1 myAGV - 建图](英文/小车建图.md)
+- [2 myAGV - 地图导航](英文/地图导航.md)
+- [3 myAGV - 手柄控制](英文/手柄控制.md)
+- [4 myAGV - 连接屏幕](英文/屏幕.md)
 
 ## 复合机器人
-- 与机械臂连接
-- 机械臂操作
-- 机械臂摄像头安装和使用
+- [1 myAGV - 摄像头精准定位](英文/定位.md)
+- [2 myAGV - 机械臂连接](英文/机械臂.md)
 
-还有几个 ；  
-1 小屏幕连接； 
 
-2 VNC设置
 
-3 吸泵与末端执行器使用
 
-## 其他
-
-- [1 维护与维修](README.md)
-- [2 资源](1-introduction/2-mycobot_intro/2-mycobot_intro.md)
