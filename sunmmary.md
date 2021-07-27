@@ -1,19 +1,19 @@
 # Summary
 
-## 介绍
+## Introduce
 
-- [1 myAGV - 产品简介](英文/en介绍.md)
-- [2 快速开始](英文/初次使用.md)
-## 开发与使用
+- [1 myAGV - Product introduction](英文/en介绍.md)
+- [2 Quick start](英文/初次使用.md)
+## Development and use
 
-- [1 myAGV - 建图](英文/小车建图.md)
-- [2 myAGV - 地图导航](英文/地图导航.md)
-- [3 myAGV - 手柄控制](英文/手柄控制.md)
-- [4 myAGV - 连接屏幕](英文/屏幕.md)
+- [1 myAGV - Mapping](英文/小车建图.md)
+- [2 myAGV - Map navigation](英文/地图导航.md)
+- [3 myAGV - Handle control](英文/手柄控制.md)
+- [4 myAGV - Connection screen](英文/屏幕.md)
 
-## 复合机器人
-- [1 myAGV - 摄像头精准定位](英文/定位.md)
-- [2 myAGV - 机械臂连接](英文/机械臂.md)
+## Compound robot
+- [1 myAGV - Camera precise positioning](英文/定位.md)
+- [2 myAGV - Manipulator connection](英文/机械臂.md)
 
 
 
