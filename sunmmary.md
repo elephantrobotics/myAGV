@@ -3,7 +3,7 @@
 ## Introduce
 
 - [1 myAGV - Product introduction](英文/en介绍.md)
-- [2 Quick start](英文/初次使用.md)
+- [2 myAGV - Quick start](英文/初次使用.md)
 ## Development and use
 
 - [1 myAGV - Mapping](英文/小车建图.md)
