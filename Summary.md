@@ -2,7 +2,7 @@
 
 ## 介绍
 
-- [1 myAGV-产品简介](1-introduce/介绍.md)
+- [1 myAGV-产品简介](README.md)
 - [2 快速开始](1-introduce/初次使用.md)
 - [3 VNC设置](1-introduce/VNC.md)
 
