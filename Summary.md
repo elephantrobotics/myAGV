@@ -12,6 +12,7 @@
 - [2 地图导航](2-development/4.MYAGV小车地图导航.md)
 - [3 ps4手柄控制](2-development/5.MYAGV小车PS4手柄控制.md)
 - [4 屏幕连接](2-development/8.MYAGV连接屏幕.md)
+- [5 myAGV与机械臂联动](2-development/小车机械臂联动.md)
 
 ## 复合机器人
 
